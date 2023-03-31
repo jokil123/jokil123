@@ -1,5 +1,7 @@
 ### Trying to make computers do stuff 🖥️
 
+(Mostly using Rust nowadays)
+
 <!--
 **jokil123/jokil123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
